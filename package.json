@@ -16,11 +16,14 @@
   "author": "shoota",
   "license": "MIT",
   "preferGlobal": "true",
-  "bin":{
+  "bin": {
     "ppl": "bin/pplog"
-    },
+  },
   "bugs": {
     "url": "https://github.com/shoota/pplog_cli/issues"
   },
-  "homepage": "https://github.com/shoota/pplog_cli"
+  "homepage": "https://github.com/shoota/pplog_cli",
+  "dependencies": {
+    "argv": "0.0.2"
+  }
 }
