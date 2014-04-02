@@ -1,0 +1,1 @@
+{ targets: [ 'ayumiko' ], options: { title: true } }

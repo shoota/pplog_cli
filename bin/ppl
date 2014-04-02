@@ -3,14 +3,5 @@
 'use strict';
 
 var ppl = require('../lib/index');
-
-var args = process.argv;
-
-if(args.length > 5 || args.length < 3 ){
-	console.log('invalid argument length!');
-	ppl.usage();
-}else{
-	ppl.run(args.slice(2););	
-}
-
+ppl.run()
 
