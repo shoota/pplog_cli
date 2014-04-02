@@ -1,6 +1,6 @@
 {
   "name": "pplog_cli",
-  "version": "0.0.0",
+  "version": "0.1.2",
   "description": "pplog node cli",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   "license": "MIT",
   "preferGlobal": "true",
   "bin": {
-    "ppl": "bin/pplog"
+    "ppl": "bin/ppl"
   },
   "bugs": {
     "url": "https://github.com/shoota/pplog_cli/issues"
