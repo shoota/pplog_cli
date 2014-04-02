@@ -1,0 +1,15 @@
+#!/usr/bin/env node
+
+'use strict';
+
+var ppl = require('../lib/index');
+
+
+if(process.argv.length > 4){
+	console.log('option error!');
+	ppl.usage();
+}else{
+	ppl.run(process.argv[2]);	
+}
+
+
