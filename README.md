@@ -1,3 +1,4 @@
+![寿司ゆき](https://d1zd1v0cxnbx2w.cloudfront.net/images/sets/sushiyuki/15.png) 
 pplog_cli
 =========
 
@@ -11,5 +12,3 @@ Require node.js.
 
 ## 使い方
 `ppl user_name [options]`
-
-![寿司ゆき](https://d1zd1v0cxnbx2w.cloudfront.net/images/sets/sushiyuki/15.png) 
